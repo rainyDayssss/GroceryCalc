@@ -1,0 +1,28 @@
+D:\C# Projects\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.exe
+D:\C# Projects\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.deps.json
+D:\C# Projects\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.runtimeconfig.json
+D:\C# Projects\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.dll
+D:\C# Projects\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.pdb
+D:\C# Projects\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.AssemblyInfoInputs.cache
+D:\C# Projects\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.AssemblyInfo.cs
+D:\C# Projects\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.csproj.CoreCompileInputs.cache
+D:\C# Projects\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.dll
+D:\C# Projects\GroceryCalc\GroceryCalc\obj\Debug\net8.0\refint\GroceryCalc.dll
+D:\C# Projects\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.pdb
+D:\C# Projects\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.genruntimeconfig.cache
+D:\C# Projects\GroceryCalc\GroceryCalc\obj\Debug\net8.0\ref\GroceryCalc.dll
+Z:\XX538\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.GeneratedMSBuildEditorConfig.editorconfig
+Z:\XX538\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.AssemblyInfoInputs.cache
+Z:\XX538\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.AssemblyInfo.cs
+Z:\XX538\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.csproj.CoreCompileInputs.cache
+Z:\XX538\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.dll
+Z:\XX538\GroceryCalc\GroceryCalc\obj\Debug\net8.0\refint\GroceryCalc.dll
+Z:\XX538\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.pdb
+Z:\XX538\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.exe
+Z:\XX538\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.deps.json
+Z:\XX538\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.runtimeconfig.json
+Z:\XX538\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.dll
+Z:\XX538\GroceryCalc\GroceryCalc\bin\Debug\net8.0\GroceryCalc.pdb
+Z:\XX538\GroceryCalc\GroceryCalc\obj\Debug\net8.0\GroceryCalc.genruntimeconfig.cache
+Z:\XX538\GroceryCalc\GroceryCalc\obj\Debug\net8.0\ref\GroceryCalc.dll
